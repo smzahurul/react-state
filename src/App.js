@@ -20,14 +20,14 @@ function App() {
 const ButtonStyles = {
   margin: '10px',
   padding:'10px',
-  backgroundColor: 'rgba(255, 255, 255)',
+  backgroundColor: 'salmon',
   borderRadius: '5px',
 
 };
 const ButtonStyles1 = {
   margin: '10px',
   padding:'10px',
-  backgroundColor: 'red(200, 252, 222)',
+  backgroundColor: 'red',
   borderRadius: '5px',
 
 };
